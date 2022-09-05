@@ -1,0 +1,43 @@
+@media (max-width: 1199.98px) { 
+	
+}
+
+@media (max-width: 991.98px) {
+	.main-menu .navbar-nav{
+		background-color: #fff;
+	}
+	.main-menu .navbar .nav-item .nav-link{
+		color: #000;
+		padding: 13px 20px;
+	}
+	.main-menu .navbar .nav-item button{
+		margin-left: 13px;
+	}
+	h2 {
+	    font-size: 41px;
+    	line-height: 63px;
+	}
+	.framework-box img {
+    	margin-top: -27px;
+	}
+}	
+
+@media (max-width: 767.98px) {
+	.help-text h2 {
+    	font-size: 31px;
+	}
+	h2 {
+	    font-size: 39px;
+	    line-height: 54px;
+	}
+}
+
+@media (max-width: 575.98px) {
+	h2 {
+    	font-size: 37px;
+    	line-height: 54px;
+	}
+	.email-color button {
+    	right: 24%;
+	}
+}
